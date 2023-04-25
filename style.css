@@ -251,6 +251,9 @@ input{
     .box{
         justify-content: center;
     }
+    .box-cols{
+        width: 90%;
+    }
     .add > span{
         display: none;
     }
