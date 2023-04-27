@@ -239,6 +239,20 @@ input{
 
 /* ************** MEDIA QUERY ***************** */
 
+@media only screen and (max-width: 1155px){
+    section{
+    padding: 0 15%;
+    }
+    .box-cols{
+        width: 48%;
+    }
+    .top{
+        width: 50%;
+    }
+}
+
+
+/* Mobile view */
 @media only screen and (max-width: 600px){
     
     /* ***** INDEX 1 ****** */
